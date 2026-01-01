@@ -4,7 +4,6 @@
 #include <sys/types.h>
 #include <unistd.h>
 #include "aleatoire.h"
-------------------------------------------- */
 
 /*
   param1 : borneInf (borne inférieure de l'intervalle)
